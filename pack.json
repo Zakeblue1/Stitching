@@ -1,0 +1,9 @@
+{
+  "name": "Psvita - Stitching",
+  "description": "A Playstation Vita Theme Called 'Stitching'. You Can Find it (if you have psvita device) in Playstation store. or on youtube.",
+  "author": "Zakeblue1",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  }
